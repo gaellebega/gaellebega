@@ -7,6 +7,6 @@
 
 ### Tech Stack
 - HTML • CSS • Tailwind CSS  
-- JavaScript • React • NodeJs 
+- JavaScript • React • NodeJs •Python
 
 ✨ Always learning. Always building.
