@@ -4,9 +4,10 @@
 🎨 Creating clean, user-friendly interfaces  
 📚 Learning in public & sharing everything I learn  
 🚀 Growing through practice, feedback, and real projects  
+👶🌱 Newbie in DSA
 
 ### Tech Stack
 - HTML • CSS • Tailwind CSS  
-- JavaScript • React • NodeJs •Python
+- JavaScript • React • NodeJs • Python
 
 ✨ Always learning. Always building.
