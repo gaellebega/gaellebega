@@ -4,7 +4,7 @@
 🎨 Creating clean, user-friendly interfaces  
 📚 Learning in public & sharing everything I learn  
 🚀 Growing through practice, feedback, and real projects  
-🌱 Newbie in DSA @A2SV
+🌱 Newbie in DSA 
 
 
 ### Tech Stack
