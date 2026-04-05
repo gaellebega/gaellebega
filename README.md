@@ -8,7 +8,7 @@
 
 
 ### Tech Stack
-- HTML • CSS • Tailwind CSS  •Figma
+- HTML • CSS • Tailwind CSS  • Figma
 - JavaScript • React • NodeJs • Python
 
 ✨ Always learning. Always building.
