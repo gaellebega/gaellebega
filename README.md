@@ -13,4 +13,4 @@
 
 ✨ Always learning. Always building.
 
-                                                                                *Enjoy exploring my journey,hope you stay :)*
+                                                                        *Enjoy exploring my journey, hope you stay :)*
