@@ -1,4 +1,4 @@
-# Hi, I'm Béga 👋
+# Hi, I'm Béga ✦
 
 💻 Frontend Developer & UI/UX Designer  
 🎨 Creating clean, User-friendly interfaces  
