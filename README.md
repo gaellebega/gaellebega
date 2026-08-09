@@ -4,7 +4,7 @@
 🎨 Creating clean, User-friendly interfaces  
 📚 Learning in public & sharing everything I learn  
 🚀 Growing through practice, feedback, and real projects  
-🌱 Newbie in DSA 
+🌱 Currently learning Typescript 
 
 
 ### Tech Stack
