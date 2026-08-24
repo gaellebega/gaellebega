@@ -1,6 +1,6 @@
 # Hi, I'm Béga 👋🏼
 
-💻 Frontend Developer & UI/UX Designer  
+💻 Frontend Developer&Frontend & Mobile Developer📱 | UI/UX Designer   
 🎨 Creating clean, User-friendly interfaces  
 📚 Learning in public & sharing everything I learn  
 🚀 Growing through practice, feedback, and real projects  
