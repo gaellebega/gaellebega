@@ -7,9 +7,8 @@
 🌱 Currently learning Typescript 
 
 
-### Tech Stack
-- HTML • CSS • Tailwind CSS  • Figma • Typescript 
-- JavaScript • React • NodeJs • Python
+• HTML • CSS • Tailwind CSS • Figma • TypeScript
+• JavaScript • React • React Native • Expo Go • Node.js • Python 
 
 ✨ Always learning. Always building.
 
