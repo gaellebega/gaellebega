@@ -8,6 +8,7 @@
 
 
 • HTML • CSS • Tailwind CSS • Figma • TypeScript
+
 • JavaScript • React • React Native • Expo Go • Node.js • Python 
 
 ✨ Always learning. Always building.
